@@ -1,0 +1,4 @@
+# requirements.txt
+
+# List the required Python packages and their versions
+shutil
