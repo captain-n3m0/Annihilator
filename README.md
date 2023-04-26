@@ -9,5 +9,9 @@ Data destruction without proper authorization or violating privacy laws, is stri
 # Requirements
 ``` pip install -r requirements.txt ```
 
+``` bundle install ```
+
 # Usage
 ``` python annihilator.py ```
+
+```ruby annihilator.rb```
